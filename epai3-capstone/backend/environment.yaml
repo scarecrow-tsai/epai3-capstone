@@ -1,0 +1,6 @@
+name: openform
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+prefix: /home/akshaj/miniconda3/envs/openform
